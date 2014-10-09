@@ -1,3 +1,7 @@
+## Instruction
+
+Original instruction from forked <a href="https://github.com/unung95/ExData_Plotting1">https://github.com/rdpeng/ExData_Plotting1</a>
+
 ##Introduction
 
 This assignment uses data from the UC Irvine Machine Learning Repository, a popular repository for machine learning datasets. In particular, we will be using the “Individual household electric power consumption Data Set” which I have made available on the course web site:
