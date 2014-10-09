@@ -18,3 +18,17 @@ The following descriptions of the 9 variables in the dataset are taken from the 
 - Sub_metering_2: energy sub-metering No. 2 (in watt-hour of active energy). It corresponds to the laundry room, containing a washing-machine, a tumble-drier, a refrigerator and a light.
 - Sub_metering_3: energy sub-metering No. 3 (in watt-hour of active energy). It corresponds to an electric water-heater and an air-conditioner.
 
+## Data
+
+- The dataset has 2,075,259 rows and 9 columns. 
+- Only be using data from the dates 2007-02-01 and 2007-02-02. 
+- Converting the Date and Time variables to Date/Time classes in R using the as.Date() and as.POSIXct() functions.
+- Note that in this dataset missing values are coded as ?.
+
+## Plots
+
+- R script save with plot1.R, plot2.R, plot3.R and plot4.R
+- For security reason, file upload using create new issues.
+- Image file accessed with plot1.png.md, plot2.png.md, plot3.png.md, plot4.png.md
+
+Thanks...
