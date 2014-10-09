@@ -1,6 +1,6 @@
 ## Instruction
 
-Original instruction from forked <a href="https://github.com/unung95/ExData_Plotting1">https://github.com/rdpeng/ExData_Plotting1</a>
+Original instruction from forked <a href="https://github.com/unung95/ExData_Plotting1">https://github.com/unung95/ExData_Plotting1</a>
 
 ##Introduction
 
